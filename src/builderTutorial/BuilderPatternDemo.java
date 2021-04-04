@@ -2,6 +2,8 @@ package builderTutorial;
 
 /**
  * 7. MealBuilder를 사용하는 메인클래스 생성
+ * MealBuilder에서 원하는 Meal을 선택해서 가져옴
+ * 리스트와 가격을 출력
  * @date 		: 2021. 4. 2.
  */
 public class BuilderPatternDemo {

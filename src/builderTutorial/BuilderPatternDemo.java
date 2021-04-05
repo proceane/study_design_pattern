@@ -20,6 +20,7 @@ public class BuilderPatternDemo {
 		System.out.println("\n\nNon-Veg Meal");
 		nonVegMeal.showItems();
 		System.out.println("Total Count : " + nonVegMeal.getCost());
+		
 	}
 
 }

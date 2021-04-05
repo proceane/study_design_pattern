@@ -23,4 +23,13 @@ public class MealBuilder {
 		meal.addItem(new Pepsi());
 		return meal;
 	}
+	
+	//객체생성할때 사용하는 Builder의 기본이 되는 느낌?
+	//기본이지만 조금 다른느낌
+	//이렇게 써도 되나?
+	public Meal prepareMeal1() {
+		Meal meal = new Meal();
+		//Meal meal = new Meal().addItem(new ChickenBurger());	//이렇게는 안됨
+		return meal;
+	}
 }

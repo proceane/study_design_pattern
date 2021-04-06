@@ -1,4 +1,4 @@
-package FactoryTutorial;
+package factoryTutorial;
 
 /*
  * 4. Factory를 사용하는 main

@@ -1,4 +1,4 @@
-package FactoryTutorial;
+package factoryTutorial;
 
 /**
  * 2. Shape인터페이스를 구체화한 Square클래스 생성

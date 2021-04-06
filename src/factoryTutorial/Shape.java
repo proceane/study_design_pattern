@@ -1,4 +1,4 @@
-package FactoryTutorial;
+package factoryTutorial;
 
 /**
  * 1. Shape인터페이스 생성

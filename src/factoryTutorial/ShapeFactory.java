@@ -1,4 +1,4 @@
-package FactoryTutorial;
+package factoryTutorial;
 
 /**
  * 3. Shape를 만드는 Factory클래스 생성

@@ -1,8 +1,8 @@
-package factoryTutorial;
+package factoryMethodTutorial;
 
 /**
- * 2. Shape인터페이스를 구체화한 Circle클래스 생성
- * @date 		: 2021. 4. 5.
+ * 2. Shape를 구체화한 Circle클래스 생성
+ * @date 		: 2021. 4. 6.
  */
 public class Circle implements Shape {
 

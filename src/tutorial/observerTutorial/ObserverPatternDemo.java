@@ -1,4 +1,4 @@
-package observerTutorial;
+package tutorial.observerTutorial;
 
 /**
  * 4. 메인 메소드 생성

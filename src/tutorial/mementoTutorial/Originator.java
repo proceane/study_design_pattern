@@ -1,4 +1,4 @@
-package mementoTutorial;
+package tutorial.mementoTutorial;
 
 /**
  * 2. originator클래스 생성

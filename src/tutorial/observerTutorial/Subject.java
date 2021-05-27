@@ -1,4 +1,4 @@
-package observerTutorial;
+package tutorial.observerTutorial;
 
 import java.util.ArrayList;
 import java.util.List;

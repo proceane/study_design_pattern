@@ -1,4 +1,4 @@
-package mementoTutorial;
+package tutorial.mementoTutorial;
 
 import java.util.ArrayList;
 import java.util.List;

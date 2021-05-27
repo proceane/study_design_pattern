@@ -1,4 +1,4 @@
-package mementoTutorial;
+package tutorial.mementoTutorial;
 
 /**
  * 4. 메인 메소드 생성

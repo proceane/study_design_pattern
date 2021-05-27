@@ -1,4 +1,4 @@
-package observerTutorial;
+package tutorial.observerTutorial;
 
 /**
  * 2. Observer 추상 클래스 생성

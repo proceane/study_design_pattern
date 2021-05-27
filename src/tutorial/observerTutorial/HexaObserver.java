@@ -1,4 +1,4 @@
-package observerTutorial;
+package tutorial.observerTutorial;
 
 /**
  * 3. observer클래스 상속

@@ -1,4 +1,4 @@
-package mementoTutorial;
+package tutorial.mementoTutorial;
 
 /**
  * 1. Memento클래스 생성

@@ -1,4 +1,4 @@
-package stateTutorial;
+package tutorial.stateTutorial;
 
 /**
  * 2. state인터페이스 구현

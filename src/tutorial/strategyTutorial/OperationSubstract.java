@@ -1,4 +1,4 @@
-package strategyTutorial;
+package tutorial.strategyTutorial;
 
 /**
  * 2. strategy인터페이스 구현

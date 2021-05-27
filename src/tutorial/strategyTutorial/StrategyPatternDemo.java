@@ -1,4 +1,4 @@
-package strategyTutorial;
+package tutorial.strategyTutorial;
 
 /**
  * 4. 메인메소드 생성

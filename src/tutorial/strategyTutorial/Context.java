@@ -1,4 +1,4 @@
-package strategyTutorial;
+package tutorial.strategyTutorial;
 
 /**
  * 3. context클래스 생성

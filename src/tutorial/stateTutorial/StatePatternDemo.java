@@ -1,4 +1,4 @@
-package stateTutorial;
+package tutorial.stateTutorial;
 
 /**
  * 4. 메인메소드 구현

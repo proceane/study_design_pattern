@@ -1,4 +1,4 @@
-package stateTutorial;
+package tutorial.stateTutorial;
 
 /**
  * 3. context 클래스 생성

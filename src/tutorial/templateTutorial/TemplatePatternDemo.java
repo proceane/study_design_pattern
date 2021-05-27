@@ -1,4 +1,4 @@
-package templateTutorial;
+package tutorial.templateTutorial;
 
 /**
  * 3. 메인메소드 생성

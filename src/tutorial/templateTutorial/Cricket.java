@@ -1,4 +1,4 @@
-package templateTutorial;
+package tutorial.templateTutorial;
 
 /**
  * 2. Game클래스 상속

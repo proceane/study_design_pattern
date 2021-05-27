@@ -1,4 +1,4 @@
-package visitorPattern;
+package tutorial.visitorPattern;
 
 /**
  * 5. 메인메소드 생성

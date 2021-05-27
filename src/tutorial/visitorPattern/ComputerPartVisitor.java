@@ -1,4 +1,4 @@
-package visitorPattern;
+package tutorial.visitorPattern;
 
 /**
  * 3. visitor가 역할을 할 인터페이스 생성

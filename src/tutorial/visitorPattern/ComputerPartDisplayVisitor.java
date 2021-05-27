@@ -1,4 +1,4 @@
-package visitorPattern;
+package tutorial.visitorPattern;
 
 /**
  * 4. computerpartvisitor 인터페이스 구현

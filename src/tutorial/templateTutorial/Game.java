@@ -1,4 +1,4 @@
-package templateTutorial;
+package tutorial.templateTutorial;
 
 /**
  * 1. Game추상클래스 생성

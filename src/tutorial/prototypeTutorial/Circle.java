@@ -1,4 +1,4 @@
-package prototypeTutorial;
+package tutorial.prototypeTutorial;
 
 /**
  * 2. Shape클래스를 확장한 Circle 클래스 생성

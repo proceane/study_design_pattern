@@ -1,4 +1,4 @@
-package proxyPattern;
+package tutorial.proxyPattern;
 
 /**
  * 3. 메인메소드 생성

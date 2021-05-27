@@ -1,4 +1,4 @@
-package prototypeTutorial;
+package tutorial.prototypeTutorial;
 
 /**
  * 1. Cloneable interface를 상속한 Shape 추상클래스 생성

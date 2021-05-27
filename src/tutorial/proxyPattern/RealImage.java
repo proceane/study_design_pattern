@@ -1,4 +1,4 @@
-package proxyPattern;
+package tutorial.proxyPattern;
 
 /**
  * 2. Image인터페이스 구현

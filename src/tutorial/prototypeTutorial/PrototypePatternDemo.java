@@ -1,4 +1,4 @@
-package prototypeTutorial;
+package tutorial.prototypeTutorial;
 
 /**
  * 4. 해시테이블에 저장된 모양의 클론을 가져와서 ShapeCache 클래스를 사용하는 메인클래스

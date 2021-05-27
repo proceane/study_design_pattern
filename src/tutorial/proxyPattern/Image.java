@@ -1,4 +1,4 @@
-package proxyPattern;
+package tutorial.proxyPattern;
 
 /**
  * 1. Image인터페이스 생성

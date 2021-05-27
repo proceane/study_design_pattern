@@ -1,4 +1,4 @@
-package prototypeTutorial;
+package tutorial.prototypeTutorial;
 
 import java.util.Hashtable;
 
